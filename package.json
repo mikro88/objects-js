@@ -1,0 +1,20 @@
+{
+  "name": "objects.js",
+  "version": "0.1.0",
+  "description": "Basic multi-purpose framework",
+  "main": "lib/objects.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Mike Rodin <mihails.rodins@protonmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "engines": {
+    "node": ">= 4.2.6"
+  }
+}
