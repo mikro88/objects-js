@@ -6,11 +6,12 @@
   "files": [
     "lib"
   ],
+  "repository": "mikro88/objects-js",
   "scripts": {
     "test": "mocha test"
   },
   "author": "Mike Rodin <mihails.rodins@protonmail.com>",
-  "license": "MIT",
+  "license": "Unlicense",
   "devDependencies": {
     "mocha": "^4.0.1"
   },
